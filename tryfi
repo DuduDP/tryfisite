@@ -1,0 +1,18 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;pt-BR&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+ &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+ &lt;title&gt;Try-Fi&lt;/title&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;  &lt;header class=&quot;cabecalho&quot;&gt;
+ &lt;img class=&quot;itens&quot;src=&quot;https://www.cartacapital.com.br/sociedade/gusttavo-lima-mp-instaura-procedimento-para-averiguar-show-de-r-12-milhao-em-cidade-mineira/alt=&quot;Central da internet&quot; width=&quot;20%&quot;&gt;
+&lt;h1&gt;Try-Fi&lt;/h1&gt;
+ &lt;ul class=&quot;itens&quot;&gt;
+&lt;li class=&quot;itens&quot;&gt;Entre&lt;/li&gt;
+&lt;li class=&quot;itens&quot;&gt;Cadastre-se&lt;/li&gt; 
+    &lt;li class=&quot;itens&quot;&gt;Conta&lt;/li&gt;      &lt;/    &lt;/header&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
